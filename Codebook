@@ -1,10 +1,10 @@
 Code Book
-This code book summarizes the resulting data fields in Cleaneddata with means.txt.
+This code book summarizes the resulting data fields in CleanedData with means.txt.
 
 Identifiers
 
 subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
+activity - The activity performed when measurements were taken
 Measurements
 
 tBodyAccMeanX
